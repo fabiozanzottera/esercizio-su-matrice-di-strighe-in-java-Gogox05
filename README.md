@@ -1,3 +1,4 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=19446069)
 Esercizio Java completo che lavora su una matrice di stringhe. Sono implementati almeno 10 metodi diversi per:
 
 1. Stampare la matrice.
